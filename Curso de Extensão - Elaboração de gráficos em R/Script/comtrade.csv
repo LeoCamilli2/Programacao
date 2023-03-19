@@ -1,0 +1,461 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4602578,,,4
+H4,2019,2019,2019,0,0,1,Import,8,Albania,ALB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29930260,,,0
+H4,2019,2019,2019,0,0,2,Export,8,Albania,ALB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,802621,,,0
+H4,2019,2019,2019,0,0,1,Import,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110340485,,,4
+H4,2019,2019,2019,0,0,2,Export,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5509723,,,0
+H4,2019,2019,2019,0,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10093942949,,,4
+H4,2019,2019,2019,0,0,2,Export,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10385463386,,,0
+H4,2019,2019,2019,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630607503,,,4
+H4,2019,2019,2019,0,0,2,Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705180564,,,4
+H4,2019,2019,2019,0,0,1,Import,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397726861,,,4
+H4,2019,2019,2019,0,0,2,Export,40,Austria,AUT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,845744551,,,4
+H4,2019,2019,2019,0,0,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67544844,,,4
+H4,2019,2019,2019,0,0,1,Import,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16341635,,,4
+H4,2019,2019,2019,0,0,2,Export,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,465,,,0
+H4,2019,2019,2019,0,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1416386212,,,4
+H4,2019,2019,2019,0,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2164656891,,,4
+H4,2019,2019,2019,0,0,1,Import,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,796433,,,4
+H4,2019,2019,2019,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1571501929,,,4
+H4,2019,2019,2019,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1533261401,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8705351,,,0
+H4,2019,2019,2019,0,0,1,Import,70,Bosnia Herzegovina,BIH,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97029734,,,0
+H4,2019,2019,2019,0,0,2,Export,70,Bosnia Herzegovina,BIH,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,763414,,,0
+H4,2019,2019,2019,0,0,1,Import,72,Botswana,BWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2687970,,,4
+H4,2019,2019,2019,0,0,2,Export,72,Botswana,BWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6664,,,0
+H4,2019,2019,2019,0,0,1,Import,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8400449,,,0
+H4,2019,2019,2019,0,0,2,Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118467,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118467,,,0
+H4,2019,2019,2019,0,0,1,Import,96,Brunei Darussalam,BRN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5800737,,,4
+H4,2019,2019,2019,0,0,2,Export,96,Brunei Darussalam,BRN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172285,,,4
+H4,2019,2019,2019,0,0,1,Import,100,Bulgaria,BGR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57468377,,,4
+H4,2019,2019,2019,0,0,2,Export,100,Bulgaria,BGR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35214305,,,4
+H4,2019,2019,2019,0,0,1,Import,104,Myanmar,MMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86918801,,,4
+H4,2019,2019,2019,0,0,2,Export,104,Myanmar,MMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5258637,,,4
+H4,2019,2019,2019,0,0,1,Import,108,Burundi,BDI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171903,,,0
+H4,2019,2019,2019,0,0,1,Import,112,Belarus,BLR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23451000,,,4
+H4,2019,2019,2019,0,0,2,Export,112,Belarus,BLR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584204600,,,4
+H4,2019,2019,2019,0,0,1,Import,116,Cambodia,KHM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24807008,,,4
+H4,2019,2019,2019,0,0,2,Export,116,Cambodia,KHM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27148664,,,4
+H4,2019,2019,2019,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4078999309,,,0
+H4,2019,2019,2019,0,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1698881891,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133921507,,,0
+H4,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23475648,,,4
+H4,2019,2019,2019,0,0,1,Import,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33250218,,,4
+H4,2019,2019,2019,0,0,2,Export,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57137706,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151753,,,0
+H4,2019,2019,2019,0,0,1,Import,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5649796927,,,4
+H4,2019,2019,2019,0,0,2,Export,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3157131441,,,4
+H4,2019,2019,2019,0,0,1,Import,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79203568567,,,4
+H4,2019,2019,2019,0,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35476982585,,,4
+H4,2019,2019,2019,0,0,1,Import,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3173994015,,,4
+H4,2019,2019,2019,0,0,2,Export,170,Colombia,COL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1465743374,,,4
+H4,2019,2019,2019,0,0,1,Import,174,Comoros,COM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,947779,,,0
+H4,2019,2019,2019,0,0,1,Import,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25282649,,,4
+H4,2019,2019,2019,0,0,2,Export,178,Congo,COG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104321,,,0
+H4,2019,2019,2019,0,0,1,Import,180,Dem. Rep. of the Congo,COD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40002721,,,0
+H4,2019,2019,2019,0,0,1,Import,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348364439,,,4
+H4,2019,2019,2019,0,0,2,Export,188,Costa Rica,CRI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19992308,,,4
+H4,2019,2019,2019,0,0,1,Import,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47837430,,,4
+H4,2019,2019,2019,0,0,2,Export,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14176118,,,0
+H4,2019,2019,2019,0,0,1,Import,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32899152,,,0
+H4,2019,2019,2019,0,0,2,Export,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3507452,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157250,,,0
+H4,2019,2019,2019,0,0,1,Import,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271167795,,,4
+H4,2019,2019,2019,0,0,2,Export,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357580300,,,4
+H4,2019,2019,2019,0,0,1,Import,204,Benin,BEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41515590,,,0
+H4,2019,2019,2019,0,0,2,Export,204,Benin,BEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47731,,,0
+H4,2019,2019,2019,0,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185752570,,,4
+H4,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387205478,,,4
+H4,2019,2019,2019,0,0,1,Import,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884903347,,,4
+H4,2019,2019,2019,0,0,2,Export,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90671283,,,4
+H4,2019,2019,2019,0,0,1,Import,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163480051,,,4
+H4,2019,2019,2019,0,0,2,Export,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5701306,,,0
+H4,2019,2019,2019,0,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29287619,,,4
+H4,2019,2019,2019,0,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13523254,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2988260,,,0
+H4,2019,2019,2019,0,0,1,Import,242,Fiji,FJI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1493887,,,4
+H4,2019,2019,2019,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,500138957,,,4
+H4,2019,2019,2019,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392272566,,,4
+H4,2019,2019,2019,0,0,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3423726516,,,4
+H4,2019,2019,2019,0,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4634470405,,,4
+H4,2019,2019,2019,0,0,1,Import,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117409700,,,4
+H4,2019,2019,2019,0,0,2,Export,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7637156,,,0
+H4,2019,2019,2019,0,0,1,Import,270,Gambia,GMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51981067,,,4
+H4,2019,2019,2019,0,0,1,Import,275,State of Palestine,PSE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35883401,,,4
+H4,2019,2019,2019,0,0,2,Export,275,State of Palestine,PSE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,546434,,,4
+H4,2019,2019,2019,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7751625761,,,4
+H4,2019,2019,2019,0,0,2,Export,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11474351672,,,4
+H4,2019,2019,2019,0,0,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138736034,,,4
+H4,2019,2019,2019,0,0,2,Export,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17236757,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314,,,0
+H4,2019,2019,2019,0,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149802578,,,0
+H4,2019,2019,2019,0,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150692753,,,4
+H4,2019,2019,2019,0,0,1,Import,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5436257,,,0
+H4,2019,2019,2019,0,0,2,Export,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57481,,,0
+H4,2019,2019,2019,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321729857,,,4
+H4,2019,2019,2019,0,0,2,Export,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32094326,,,0
+H4,2019,2019,2019,0,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34985186,,,4
+H4,2019,2019,2019,0,0,2,Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381173,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28349,,,0
+H4,2019,2019,2019,0,0,1,Import,340,Honduras,HND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147139205,,,4
+H4,2019,2019,2019,0,0,2,Export,340,Honduras,HND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,899774,,,0
+H4,2019,2019,2019,0,0,1,Import,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2251215002,,,4
+H4,2019,2019,2019,0,0,2,Export,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1870180496,,,4
+H4,2019,2019,2019,0,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157636591,,,4
+H4,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231291510,,,4
+H4,2019,2019,2019,0,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136969339,,,4
+H4,2019,2019,2019,0,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9094752,,,0
+H4,2019,2019,2019,0,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1940387546,,,4
+H4,2019,2019,2019,0,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1002647440,,,4
+H4,2019,2019,2019,0,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277064797,,,4
+H4,2019,2019,2019,0,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341927142,,,4
+H4,2019,2019,2019,0,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394017000,,,4
+H4,2019,2019,2019,0,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1180075000,,,4
+H4,2019,2019,2019,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3524883460,,,4
+H4,2019,2019,2019,0,0,2,Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4440077600,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78702272,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79653,,,0
+H4,2019,2019,2019,0,0,1,Import,384,Côte d'Ivoire,CIV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74480556,,,0
+H4,2019,2019,2019,0,0,2,Export,384,Côte d'Ivoire,CIV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130945064,,,4
+H4,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195865969,,,4
+H4,2019,2019,2019,0,0,2,Export,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,607672,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,388,Jamaica,JAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1309,,,0
+H4,2019,2019,2019,0,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7973501531,,,4
+H4,2019,2019,2019,0,0,2,Export,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3763060915,,,4
+H4,2019,2019,2019,0,0,1,Import,398,Kazakhstan,KAZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255330630,,,4
+H4,2019,2019,2019,0,0,2,Export,398,Kazakhstan,KAZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51412872,,,4
+H4,2019,2019,2019,0,0,1,Import,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366750665,,,4
+H4,2019,2019,2019,0,0,2,Export,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28355379,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,400,Jordan,JOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1081781,,,0
+H4,2019,2019,2019,0,0,1,Import,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50577825,,,4
+H4,2019,2019,2019,0,0,2,Export,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,637405,,,4
+H4,2019,2019,2019,0,0,1,Import,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4295596732,,,4
+H4,2019,2019,2019,0,0,2,Export,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4809207249,,,4
+H4,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269656832,,,0
+H4,2019,2019,2019,0,0,2,Export,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519529,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,414,Kuwait,KWT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433490,,,0
+H4,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287229,,,4
+H4,2019,2019,2019,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4423491,,,0
+H4,2019,2019,2019,0,0,2,Export,418,Lao People's Dem. Rep.,LAO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15365,,,0
+H4,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13030605,,,4
+H4,2019,2019,2019,0,0,2,Export,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14287514,,,4
+H4,2019,2019,2019,0,0,1,Import,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25376610,,,0
+H4,2019,2019,2019,0,0,2,Export,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19254430,,,4
+H4,2019,2019,2019,0,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24466415,,,4
+H4,2019,2019,2019,0,0,2,Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28059142,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6144,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2909,,,0
+H4,2019,2019,2019,0,0,1,Import,446,"China, Macao SAR",MAC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69406245,,,4
+H4,2019,2019,2019,0,0,1,Import,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23759303,,,4
+H4,2019,2019,2019,0,0,2,Export,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1453464,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,450,Madagascar,MDG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11944,,,0
+H4,2019,2019,2019,0,0,1,Import,454,Malawi,MWI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1941016,,,4
+H4,2019,2019,2019,0,0,2,Export,454,Malawi,MWI,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1158178,,,0
+H4,2019,2019,2019,0,0,1,Import,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1823271808,,,4
+H4,2019,2019,2019,0,0,2,Export,458,Malaysia,MYS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,879153342,,,4
+H4,2019,2019,2019,0,0,1,Import,470,Malta,MLT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11470761,,,4
+H4,2019,2019,2019,0,0,2,Export,470,Malta,MLT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2036876,,,4
+H4,2019,2019,2019,0,0,1,Import,478,Mauritania,MRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22580382,,,0
+H4,2019,2019,2019,0,0,2,Export,478,Mauritania,MRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2801,,,0
+H4,2019,2019,2019,0,0,1,Import,480,Mauritius,MUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43056798,,,4
+H4,2019,2019,2019,0,0,2,Export,480,Mauritius,MUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440745,,,0
+H4,2019,2019,2019,0,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6639414285,,,0
+H4,2019,2019,2019,0,0,2,Export,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4253814567,,,4
+H4,2019,2019,2019,0,0,1,Import,490,"Other Asia, nes",,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2058858252,,,4
+H4,2019,2019,2019,0,0,2,Export,490,"Other Asia, nes",,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1179102808,,,4
+H4,2019,2019,2019,0,0,1,Import,496,Mongolia,MNG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34896749,,,4
+H4,2019,2019,2019,0,0,2,Export,496,Mongolia,MNG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126264,,,0
+H4,2019,2019,2019,0,0,1,Import,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11347797,,,4
+H4,2019,2019,2019,0,0,2,Export,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752844,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21426,,,0
+H4,2019,2019,2019,0,0,1,Import,499,Montenegro,MNE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10367318,,,0
+H4,2019,2019,2019,0,0,2,Export,499,Montenegro,MNE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27926,,,0
+H4,2019,2019,2019,0,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576733721,,,4
+H4,2019,2019,2019,0,0,2,Export,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855929592,,,0
+H4,2019,2019,2019,0,0,1,Import,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14395626,,,4
+H4,2019,2019,2019,0,0,2,Export,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642975,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444129,,,0
+H4,2019,2019,2019,0,0,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4318951709,,,4
+H4,2019,2019,2019,0,0,2,Export,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3055665663,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6749020,,,0
+H4,2019,2019,2019,0,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126069095,,,4
+H4,2019,2019,2019,0,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59763846,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1597156,,,0
+H4,2019,2019,2019,0,0,1,Import,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80389314,,,4
+H4,2019,2019,2019,0,0,2,Export,558,Nicaragua,NIC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3758389,,,0
+H4,2019,2019,2019,0,0,1,Import,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705214632,,,4
+H4,2019,2019,2019,0,0,2,Export,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851591797,,,4
+H4,2019,2019,2019,0,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1523466120,,,4
+H4,2019,2019,2019,0,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,552324256,,,4
+H4,2019,2019,2019,0,0,1,Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,505978012,,,4
+H4,2019,2019,2019,0,0,2,Export,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74437373,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4703,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224387,,,0
+H4,2019,2019,2019,0,0,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2635200600,,,4
+H4,2019,2019,2019,0,0,2,Export,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2527204679,,,4
+H4,2019,2019,2019,0,0,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2430003578,,,4
+H4,2019,2019,2019,0,0,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1441619600,,,4
+H4,2019,2019,2019,0,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,936632515,,,4
+H4,2019,2019,2019,0,0,2,Export,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185256054,,,4
+H4,2019,2019,2019,0,0,1,Import,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1546742194,,,4
+H4,2019,2019,2019,0,0,2,Export,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434853986,,,4
+H4,2019,2019,2019,0,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1150400009,,,4
+H4,2019,2019,2019,0,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,840678459,,,4
+H4,2019,2019,2019,0,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461578406,,,4
+H4,2019,2019,2019,0,0,2,Export,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280829666,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26099853,,,0
+H4,2019,2019,2019,0,0,1,Import,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384418158,,,4
+H4,2019,2019,2019,0,0,2,Export,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202211203,,,4
+H4,2019,2019,2019,0,0,1,Import,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2154035076,,,4
+H4,2019,2019,2019,0,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2454719871,,,0
+H4,2019,2019,2019,0,0,1,Import,646,Rwanda,RWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4242789,,,0
+H4,2019,2019,2019,0,0,1,Import,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3973798,,,4
+H4,2019,2019,2019,0,0,2,Export,662,Saint Lucia,LCA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10523,,,0
+H4,2019,2019,2019,0,0,1,Import,682,Saudi Arabia,SAU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2239323467,,,0
+H4,2019,2019,2019,0,0,2,Export,682,Saudi Arabia,SAU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,572149086,,,4
+H4,2019,2019,2019,0,0,1,Import,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123208919,,,4
+H4,2019,2019,2019,0,0,2,Export,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,761398,,,0
+H4,2019,2019,2019,0,0,1,Import,688,Serbia,SRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63560403,,,4
+H4,2019,2019,2019,0,0,2,Export,688,Serbia,SRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16675612,,,4
+H4,2019,2019,2019,0,0,1,Import,690,Seychelles,SYC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7536568,,,4
+H4,2019,2019,2019,0,0,2,Export,690,Seychelles,SYC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2600,,,0
+H4,2019,2019,2019,0,0,1,Import,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3042273743,,,4
+H4,2019,2019,2019,0,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4113988054,,,4
+H4,2019,2019,2019,0,0,1,Import,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1471692890,,,4
+H4,2019,2019,2019,0,0,2,Export,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1330644251,,,4
+H4,2019,2019,2019,0,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81089220,,,4
+H4,2019,2019,2019,0,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127812967,,,4
+H4,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2748586796,,,4
+H4,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2147859727,,,4
+H4,2019,2019,2019,0,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218080628,,,0
+H4,2019,2019,2019,0,0,2,Export,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57320416,,,0
+H4,2019,2019,2019,0,0,1,Import,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1186297284,,,0
+H4,2019,2019,2019,0,0,2,Export,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426296569,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6046207,,,0
+H4,2019,2019,2019,0,0,1,Import,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2837494,,,4
+H4,2019,2019,2019,0,0,2,Export,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1009,,,0
+H4,2019,2019,2019,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4275273785,,,4
+H4,2019,2019,2019,0,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2909248530,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264534862,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96841,,,0
+H4,2019,2019,2019,0,0,1,Import,748,Eswatini,SWZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2133167,,,0
+H4,2019,2019,2019,0,0,2,Export,748,Eswatini,SWZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211,,,0
+H4,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,406295240,,,4
+H4,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984746098,,,4
+H4,2019,2019,2019,0,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1372293733,,,4
+H4,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2529333044,,,4
+H4,2019,2019,2019,0,0,1,Import,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1875575120,,,4
+H4,2019,2019,2019,0,0,2,Export,764,Thailand,THA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1409859208,,,4
+H4,2019,2019,2019,0,0,1,Import,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25544074,,,0
+H4,2019,2019,2019,0,0,2,Export,768,Togo,TGO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3871,,,0
+H4,2019,2019,2019,0,0,1,Import,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2700652604,,,4
+H4,2019,2019,2019,0,0,2,Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132450155,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,784,United Arab Emirates,ARE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82725086,,,0
+H4,2019,2019,2019,0,0,1,Import,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244630476,,,4
+H4,2019,2019,2019,0,0,2,Export,788,Tunisia,TUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32823369,,,0
+H4,2019,2019,2019,0,0,1,Import,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2655109120,,,4
+H4,2019,2019,2019,0,0,2,Export,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494894886,,,0
+H4,2019,2019,2019,0,0,1,Import,804,Ukraine,UKR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218259338,,,4
+H4,2019,2019,2019,0,0,2,Export,804,Ukraine,UKR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73957892,,,4
+H4,2019,2019,2019,0,0,1,Import,807,North Macedonia,MKD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42446949,,,4
+H4,2019,2019,2019,0,0,2,Export,807,North Macedonia,MKD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6195285,,,4
+H4,2019,2019,2019,0,0,1,Import,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2793518826,,,4
+H4,2019,2019,2019,0,0,2,Export,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184274454,,,4
+H4,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3020431150,,,4
+H4,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2464127648,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114961561,,,0
+H4,2019,2019,2019,0,0,1,Import,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32079462357,,,4
+H4,2019,2019,2019,0,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43083195641,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5924471427,,,0
+H4,2019,2019,2019,0,0,1,Import,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85961891,,,4
+H4,2019,2019,2019,0,0,2,Export,854,Burkina Faso,BFA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14665887,,,0
+H4,2019,2019,2019,0,0,1,Import,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1655098870,,,4
+H4,2019,2019,2019,0,0,2,Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1075526135,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477136,,,0
+H4,2019,2019,2019,0,0,1,Import,860,Uzbekistan,UZB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115503837,,,4
+H4,2019,2019,2019,0,0,2,Export,860,Uzbekistan,UZB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,918058,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669696,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H4,2019,2019,2019,0,0,1,Import,887,Yemen,YEM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220680913,,,0
+H4,2019,2019,2019,0,0,1,Import,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11768933,,,4
+H4,2019,2019,2019,0,0,2,Export,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11331,,,0
+H4,2020,2020,2020,0,0,1,Import,8,Albania,ALB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34254454,,,0
+H4,2020,2020,2020,0,0,2,Export,8,Albania,ALB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158841,,,0
+H4,2020,2020,2020,0,0,1,Import,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78381397,,,4
+H4,2020,2020,2020,0,0,2,Export,31,Azerbaijan,AZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6594293,,,0
+H4,2020,2020,2020,0,0,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8648775539,,,4
+H4,2020,2020,2020,0,0,2,Export,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7941276027,,,0
+H4,2020,2020,2020,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641792837,,,4
+H4,2020,2020,2020,0,0,2,Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513750230,,,4
+H4,2020,2020,2020,0,0,1,Import,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55428342,,,4
+H4,2020,2020,2020,0,0,2,Export,51,Armenia,ARM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1745,,,0
+H4,2020,2020,2020,0,0,1,Import,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6969285,,,4
+H4,2020,2020,2020,0,0,2,Export,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1556,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,52,Barbados,BRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306,,,0
+H4,2020,2020,2020,0,0,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1455894299,,,4
+H4,2020,2020,2020,0,0,2,Export,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1851772168,,,4
+H4,2020,2020,2020,0,0,1,Import,60,Bermuda,BMU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1496933,,,0
+H4,2020,2020,2020,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1198947206,,,4
+H4,2020,2020,2020,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1116849258,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22279478,,,0
+H4,2020,2020,2020,0,0,1,Import,70,Bosnia Herzegovina,BIH,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94602404,,,0
+H4,2020,2020,2020,0,0,2,Export,70,Bosnia Herzegovina,BIH,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,785174,,,0
+H4,2020,2020,2020,0,0,1,Import,72,Botswana,BWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1586271,,,0
+H4,2020,2020,2020,0,0,2,Export,72,Botswana,BWA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5452,,,0
+H4,2020,2020,2020,0,0,1,Import,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7441411,,,0
+H4,2020,2020,2020,0,0,2,Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10377,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,84,Belize,BLZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9457,,,0
+H4,2020,2020,2020,0,0,1,Import,104,Myanmar,MMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69542990,,,4
+H4,2020,2020,2020,0,0,2,Export,104,Myanmar,MMR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3734610,,,4
+H4,2020,2020,2020,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4917920562,,,4
+H4,2020,2020,2020,0,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1603081620,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83046236,,,0
+H4,2020,2020,2020,0,0,1,Import,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28275900,,,4
+H4,2020,2020,2020,0,0,2,Export,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44917552,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,144,Sri Lanka,LKA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2144678,,,0
+H4,2020,2020,2020,0,0,1,Import,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84083784228,,,4
+H4,2020,2020,2020,0,0,2,Export,156,China,CHN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34955974927,,,4
+H4,2020,2020,2020,0,0,1,Import,180,Dem. Rep. of the Congo,COD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55944829,,,4
+H4,2020,2020,2020,0,0,1,Import,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19866213,,,0
+H4,2020,2020,2020,0,0,2,Export,191,Croatia,HRV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11343141,,,0
+H4,2020,2020,2020,0,0,1,Import,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9104214,,,0
+H4,2020,2020,2020,0,0,2,Export,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1882405,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,196,Cyprus,CYP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1055113,,,0
+H4,2020,2020,2020,0,0,1,Import,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208286571,,,4
+H4,2020,2020,2020,0,0,2,Export,203,Czechia,CZE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317861291,,,4
+H4,2020,2020,2020,0,0,1,Import,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211585337,,,0
+H4,2020,2020,2020,0,0,2,Export,208,Denmark,DNK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447731045,,,4
+H4,2020,2020,2020,0,0,1,Import,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149938490,,,4
+H4,2020,2020,2020,0,0,2,Export,222,El Salvador,SLV,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5024446,,,0
+H4,2020,2020,2020,0,0,1,Import,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26529224,,,4
+H4,2020,2020,2020,0,0,2,Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30212208,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,233,Estonia,EST,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103594,,,0
+H4,2020,2020,2020,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,419386625,,,4
+H4,2020,2020,2020,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642788947,,,4
+H4,2020,2020,2020,0,0,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2310206477,,,4
+H4,2020,2020,2020,0,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3309642851,,,4
+H4,2020,2020,2020,0,0,1,Import,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162770114,,,0
+H4,2020,2020,2020,0,0,2,Export,268,Georgia,GEO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1176877,,,0
+H4,2020,2020,2020,0,0,1,Import,270,Gambia,GMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42727803,,,4
+H4,2020,2020,2020,0,0,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6949111609,,,4
+H4,2020,2020,2020,0,0,2,Export,276,Germany,DEU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9734065192,,,4
+H4,2020,2020,2020,0,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199428738,,,0
+H4,2020,2020,2020,0,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39692961,,,0
+H4,2020,2020,2020,0,0,1,Import,308,Grenada,GRD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4118158,,,0
+H4,2020,2020,2020,0,0,1,Import,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293507175,,,4
+H4,2020,2020,2020,0,0,2,Export,320,Guatemala,GTM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40644855,,,0
+H4,2020,2020,2020,0,0,1,Import,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33678592,,,4
+H4,2020,2020,2020,0,0,2,Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21629409,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,328,Guyana,GUY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200562,,,0
+H4,2020,2020,2020,0,0,1,Import,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2234974686,,,4
+H4,2020,2020,2020,0,0,2,Export,344,"China, Hong Kong SAR",HKG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2246413194,,,4
+H4,2020,2020,2020,0,0,1,Import,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103408589,,,4
+H4,2020,2020,2020,0,0,2,Export,348,Hungary,HUN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183635343,,,4
+H4,2020,2020,2020,0,0,1,Import,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259378344,,,4
+H4,2020,2020,2020,0,0,2,Export,352,Iceland,ISL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4909188,,,4
+H4,2020,2020,2020,0,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396077326,,,4
+H4,2020,2020,2020,0,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339621167,,,4
+H4,2020,2020,2020,0,0,1,Import,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,432186000,,,4
+H4,2020,2020,2020,0,0,2,Export,376,Israel,ISR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,998944000,,,4
+H4,2020,2020,2020,0,0,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3440646244,,,4
+H4,2020,2020,2020,0,0,2,Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4151553595,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52231220,,,0
+H4,2020,2020,2020,0,0,4,Re-Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43747826,,,0
+H4,2020,2020,2020,0,0,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7493636013,,,4
+H4,2020,2020,2020,0,0,2,Export,392,Japan,JPN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2957107068,,,4
+H4,2020,2020,2020,0,0,1,Import,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54934149,,,4
+H4,2020,2020,2020,0,0,2,Export,404,Kenya,KEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224352,,,4
+H4,2020,2020,2020,0,0,1,Import,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4237491254,,,4
+H4,2020,2020,2020,0,0,2,Export,410,Rep. of Korea,KOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3944767988,,,4
+H4,2020,2020,2020,0,0,1,Import,417,Kyrgyzstan,KGZ,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2780169,,,4
+H4,2020,2020,2020,0,0,1,Import,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10060482,,,4
+H4,2020,2020,2020,0,0,2,Export,428,Latvia,LVA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15575696,,,4
+H4,2020,2020,2020,0,0,1,Import,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26274627,,,0
+H4,2020,2020,2020,0,0,2,Export,440,Lithuania,LTU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25712560,,,4
+H4,2020,2020,2020,0,0,1,Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16719197,,,4
+H4,2020,2020,2020,0,0,2,Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33344339,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3776,,,0
+H4,2020,2020,2020,0,0,4,Re-Import,442,Luxembourg,LUX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466,,,0
+H4,2020,2020,2020,0,0,1,Import,446,"China, Macao SAR",MAC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60179276,,,4
+H4,2020,2020,2020,0,0,2,Export,446,"China, Macao SAR",MAC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51749,,,0
+H4,2020,2020,2020,0,0,1,Import,480,Mauritius,MUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27414505,,,4
+H4,2020,2020,2020,0,0,2,Export,480,Mauritius,MUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265644,,,0
+H4,2020,2020,2020,0,0,1,Import,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5496232810,,,4
+H4,2020,2020,2020,0,0,2,Export,484,Mexico,MEX,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2935512609,,,4
+H4,2020,2020,2020,0,0,1,Import,490,"Other Asia, nes",,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2031865500,,,4
+H4,2020,2020,2020,0,0,2,Export,490,"Other Asia, nes",,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1087122127,,,4
+H4,2020,2020,2020,0,0,1,Import,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9527136,,,4
+H4,2020,2020,2020,0,0,2,Export,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276875,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,498,Rep. of Moldova,MDA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242,,,0
+H4,2020,2020,2020,0,0,1,Import,499,Montenegro,MNE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9551267,,,4
+H4,2020,2020,2020,0,0,2,Export,499,Montenegro,MNE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12683,,,0
+H4,2020,2020,2020,0,0,1,Import,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15635335,,,4
+H4,2020,2020,2020,0,0,2,Export,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8302355,,,0
+H4,2020,2020,2020,0,0,3,Re-Export,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183876,,,0
+H4,2020,2020,2020,0,0,4,Re-Import,516,Namibia,NAM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306,,,0
+H4,2020,2020,2020,0,0,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4502884078,,,4
+H4,2020,2020,2020,0,0,2,Export,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2490353534,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13189195,,,0
+H4,2020,2020,2020,0,0,1,Import,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141299616,,,4
+H4,2020,2020,2020,0,0,2,Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53951740,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,554,New Zealand,NZL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,777277,,,0
+H4,2020,2020,2020,0,0,1,Import,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1311175159,,,0
+H4,2020,2020,2020,0,0,2,Export,579,Norway,NOR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460169705,,,4
+H4,2020,2020,2020,0,0,1,Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,942117814,,,4
+H4,2020,2020,2020,0,0,2,Export,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65390569,,,4
+H4,2020,2020,2020,0,0,4,Re-Import,586,Pakistan,PAK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1639,,,0
+H4,2020,2020,2020,0,0,1,Import,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1408084494,,,4
+H4,2020,2020,2020,0,0,2,Export,616,Poland,POL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425326274,,,4
+H4,2020,2020,2020,0,0,1,Import,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1830620906,,,4
+H4,2020,2020,2020,0,0,2,Export,620,Portugal,PRT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,832616418,,,4
+H4,2020,2020,2020,0,0,1,Import,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279776387,,,4
+H4,2020,2020,2020,0,0,2,Export,634,Qatar,QAT,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312348344,,,0
+H4,2020,2020,2020,0,0,1,Import,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295691045,,,4
+H4,2020,2020,2020,0,0,2,Export,642,Romania,ROU,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152449870,,,0
+H4,2020,2020,2020,0,0,1,Import,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170968441,,,4
+H4,2020,2020,2020,0,0,2,Export,686,Senegal,SEN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,712222,,,0
+H4,2020,2020,2020,0,0,1,Import,688,Serbia,SRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68909669,,,4
+H4,2020,2020,2020,0,0,2,Export,688,Serbia,SRB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18714652,,,4
+H4,2020,2020,2020,0,0,1,Import,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3194991213,,,4
+H4,2020,2020,2020,0,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3675781059,,,4
+H4,2020,2020,2020,0,0,1,Import,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59748175,,,4
+H4,2020,2020,2020,0,0,2,Export,703,Slovakia,SVK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112633555,,,4
+H4,2020,2020,2020,0,0,1,Import,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224399730,,,0
+H4,2020,2020,2020,0,0,2,Export,705,Slovenia,SVN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53814467,,,0
+H4,2020,2020,2020,0,0,1,Import,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1065606394,,,0
+H4,2020,2020,2020,0,0,2,Export,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292581817,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,710,South Africa,ZAF,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71596,,,0
+H4,2020,2020,2020,0,0,1,Import,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8434106,,,4
+H4,2020,2020,2020,0,0,2,Export,716,Zimbabwe,ZWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5061,,,0
+H4,2020,2020,2020,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4016008541,,,4
+H4,2020,2020,2020,0,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2581285636,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252344707,,,0
+H4,2020,2020,2020,0,0,4,Re-Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88543,,,0
+H4,2020,2020,2020,0,0,1,Import,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425743476,,,4
+H4,2020,2020,2020,0,0,2,Export,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,993879235,,,4
+H4,2020,2020,2020,0,0,1,Import,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1484414752,,,4
+H4,2020,2020,2020,0,0,2,Export,757,Switzerland,CHE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2247743233,,,4
+H4,2020,2020,2020,0,0,1,Import,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3228353167,,,4
+H4,2020,2020,2020,0,0,2,Export,792,Turkey,TUR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,588818487,,,0
+H4,2020,2020,2020,0,0,1,Import,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18356407,,,4
+H4,2020,2020,2020,0,0,2,Export,800,Uganda,UGA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1962,,,0
+H4,2020,2020,2020,0,0,1,Import,804,Ukraine,UKR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265566226,,,4
+H4,2020,2020,2020,0,0,2,Export,804,Ukraine,UKR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64259411,,,4
+H4,2020,2020,2020,0,0,1,Import,807,North Macedonia,MKD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31679126,,,4
+H4,2020,2020,2020,0,0,2,Export,807,North Macedonia,MKD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3525647,,,4
+H4,2020,2020,2020,0,0,1,Import,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1931153464,,,4
+H4,2020,2020,2020,0,0,2,Export,818,Egypt,EGY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216256493,,,4
+H4,2020,2020,2020,0,0,1,Import,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2900431615,,,4
+H4,2020,2020,2020,0,0,2,Export,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2228899989,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10399848,,,0
+H4,2020,2020,2020,0,0,1,Import,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24421640761,,,4
+H4,2020,2020,2020,0,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35046878870,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5043614922,,,0
+H4,2020,2020,2020,0,0,1,Import,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1593733816,,,4
+H4,2020,2020,2020,0,0,2,Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1053820164,,,4
+H4,2020,2020,2020,0,0,3,Re-Export,858,Uruguay,URY,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658483,,,0
+H4,2020,2020,2020,0,0,1,Import,860,Uzbekistan,UZB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89122538,,,4
+H4,2020,2020,2020,0,0,2,Export,860,Uzbekistan,UZB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1890844,,,0
+H4,2020,2020,2020,0,0,1,Import,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9354766,,,4
+H4,2020,2020,2020,0,0,2,Export,894,Zambia,ZMB,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9899,,,0
