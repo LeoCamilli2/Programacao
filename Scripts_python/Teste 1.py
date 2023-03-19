@@ -1,0 +1,5 @@
+nome=input('Qual seu nome?')
+idade=input('Qual sua idade?')
+peso=input('Qual seu peso?')
+jogo_favorito=input('Qual seu game favorito?')
+print(nome,idade,peso,jogo_favorito)
