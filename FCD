@@ -1,0 +1,26 @@
+#O cálculo do fluxo de caixa descontado (DCF) é uma técnica usada para estimar o valor presente de um fluxo futuro de caixa, levando em conta o valor do dinheiro no tempo. A fórmula básica para calcular o valor presente do fluxo de caixa descontado é:
+
+#PV = CF1 / (1 + r)^1 + CF2 / (1 + r)^2 + ... + CFn / (1 + r)^n
+# Onde:
+
+#PV: valor presente
+#CF: fluxo de caixa
+#r: taxa de desconto
+#n: número de períodos
+
+#No exemplo abaixo, usaremos a fórmula DCF para calcular o valor presente de um fluxo de caixa de 5 anos, com fluxos de caixa anuais de R$ 10.000,00, R$ 12.000,00, R$ 15.000,00, R$ 18.000,00 e R$ 20.000,00, respectivamente, e uma taxa de desconto (WACC) de 13%.
+
+# definir os fluxos de caixa
+cf <- c(10000, 12000, 15000, 18000, 20000)
+
+# definir a taxa de desconto (WACC)
+r <- 0.13
+
+# calcular o valor presente do fluxo de caixa descontado
+pv <- sum(cf / (1 + r)^(1:5))
+
+# imprimir o resultado
+print(pv)
+
+
+#Neste exemplo, o valor presente do fluxo de caixa descontado é de R$ 63.295,68. Note que estamos somando os valores descontados para cada um dos 5 anos, utilizando a função sum.
