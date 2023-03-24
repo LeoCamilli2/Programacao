@@ -1,3 +1,7 @@
+### LINGUAGEM R ###
+
+#FCD
+
 #O cálculo do fluxo de caixa descontado (DCF) é uma técnica usada para estimar o valor presente de um fluxo futuro de caixa, levando em conta o valor do dinheiro no tempo. A fórmula básica para calcular o valor presente do fluxo de caixa descontado é:
 
 #PV = CF1 / (1 + r)^1 + CF2 / (1 + r)^2 + ... + CFn / (1 + r)^n
@@ -24,3 +28,19 @@ print(pv)
 
 
 #Neste exemplo, o valor presente do fluxo de caixa descontado é de R$ 63.295,68. Note que estamos somando os valores descontados para cada um dos 5 anos, utilizando a função sum.
+
+###--------------------------###
+
+#Regressão multipla
+
+# Importação dos dados
+dados <- read.csv("nome_do_arquivo.csv")
+
+# Criação do modelo de regressão múltipla
+modelo <- lm(variavel_dependente ~ variavel_independente1 + variavel_independente2 + variavel_independente3, data = dados)
+
+# Visualização dos resultados da regressão
+summary(modelo)
+
+
+#Neste exemplo, substitua "nome_do_arquivo.csv" pelo nome do arquivo com seus dados, "variavel_dependente" pela variável que você está tentando prever e "variavel_independente1", "variavel_independente2" e "variavel_independente3" pelas variáveis que você acredita que estão relacionadas à sua variável dependente. A função lm() cria o modelo de regressão múltipla e a função summary() fornece uma visão geral dos resultados da regressão, como o coeficiente de determinação (R²) e os coeficientes das variáveis independentes.
