@@ -1,0 +1,23 @@
+# Instalar e carregar pacotes
+install.packages("benchmarking")
+library(benchmarking)
+
+# Importar dados
+dados <- read.csv("dados.csv", header = TRUE)
+
+# Definir variáveis dependentes e independentes
+y <- dados$producao
+x <- dados[, c("capital", "trabalho")]
+
+# Definir modelo de SFA com função de produção Cobb-Douglas
+modelo_sfa <- dea(y, x, RTS = "cd", ORIENTATION = "in")
+
+# Calcular índice de Malmquist para eficiência produtiva
+malmquist <- malmquistSFA(modelo_sfa)
+
+# Exportar resultados
+write.csv(malmquist, "indice_malmquist.csv", row.names = FALSE)
+
+
+
+## Neste exemplo, é utilizada a função de produção Cobb-Douglas no modelo de SFA, ao invés do RTS (Returns To Scale) VRS (Variable Returns to Scale) utilizado no exemplo anterior. Em seguida, é calculado o índice de Malmquist para a comparação da eficiência produtiva ao longo do tempo. O índice de Malmquist é uma medida de mudança de produtividade ao longo do tempo, e é calculado a partir da comparação entre dois modelos de SFA em períodos distintos. No exemplo acima, é utilizado apenas um período, mas é possível adicionar mais períodos de dados para comparação. Ao final, os resultados são exportados em um arquivo CSV.
